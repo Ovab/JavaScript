@@ -1,0 +1,5 @@
+document.getElementById("kop").innerHTML="Dit is de pagina titel"
+document.getElementById("Sub").innerHTML="Dit is een sub kop"
+document.getElementById("title").innerHTML="Dit is de pagina titel"
+document.getElementById("Img1").src="B.jpg"
+document.getElementById("Img2").src="Bee.jpg"

@@ -22,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -39,7 +40,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML&amp;CSS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,7 +62,10 @@
       <workItem from="1606465754988" duration="46000" />
       <workItem from="1606465811866" duration="704000" />
       <workItem from="1606466742518" duration="65000" />
-      <workItem from="1606466817078" duration="678000" />
+      <workItem from="1606466817078" duration="3029000" />
+      <workItem from="1606473399118" duration="11000" />
+      <workItem from="1606474102304" duration="24000" />
+      <workItem from="1606474359461" duration="9000" />
     </task>
     <servers />
   </component>
@@ -80,6 +85,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606474366887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606474366887" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1606465890267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
