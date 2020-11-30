@@ -22,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,6 +69,7 @@
       <workItem from="1606686220860" duration="68000" />
       <workItem from="1606686295307" duration="80000" />
       <workItem from="1606721336780" duration="2667000" />
+      <workItem from="1606735874046" duration="5119000" />
     </task>
     <servers />
   </component>
@@ -97,5 +98,9 @@
     </state>
     <state x="403" y="159" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1606686288095" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606465890267" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606740842879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.11.1920.1040/-1920.22.1920.1040@0.0.1920.1040" timestamp="1606740842879" />
   </component>
 </project>
