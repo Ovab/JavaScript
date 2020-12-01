@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var display=false
+    function changeImage() {
+        if (display==false) {
+            document.getElementById('myimage').src = "../tenor.gif";
+            display = true
+        }
+        else {document.getElementById('myimage').src = "../tenor%20(1).gif";display=false}
+    }
+</script>
+
+<img id="myimage" onclick="changeImage()" src="../tenor%20(1).gif" width="420" height="420">
+<a href="Opdracht4.3.html">opdracht 3</a>
+Check console for 4.1
+</body>
+</html>
+<script src="Opdracht4.1.js"></script>
