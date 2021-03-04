@@ -40,7 +40,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BierHier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -72,9 +72,6 @@
       <workItem from="1606735874046" duration="5119000" />
       <workItem from="1606900253671" duration="1381000" />
       <workItem from="1606902581222" duration="3053000" />
-      <workItem from="1606988372754" duration="310000" />
-      <workItem from="1607344272349" duration="1730000" />
-      <workItem from="1607945597343" duration="9000" />
     </task>
     <servers />
   </component>
@@ -94,19 +91,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1607945604391">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606474366887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607945604391" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606474366887" />
     <state x="403" y="159" key="SettingsEditor" timestamp="1606686288095">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="403" y="159" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1606686288095" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606465890267" />
-    <state x="-1304" y="240" key="run.anything.popup" timestamp="1607344559274">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606740842879">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607344559274" />
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.11.1920.1040/-1920.22.1920.1040@0.0.1920.1040" timestamp="1606740842879" />
   </component>
 </project>
